@@ -1,0 +1,7 @@
+name: MCZombies
+version: '${project.version}'
+main: dev.justinf.mczombies.MCZombies
+api-version: 1.18
+authors: [ jstnf ]
+description: Recreation of COD Zombies in Minecraft
+website: https://justinf.dev/
